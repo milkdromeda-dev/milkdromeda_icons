@@ -8,8 +8,8 @@ void main() {
       const MaterialApp(
           home: Column(
         children: [
-          Icon(MilkdromedaIcons.actionIcon1),
-          Icon(MilkdromedaIcons.actionIcon2),
+          Icon(MilkdromedaIcons.action1),
+          Icon(MilkdromedaIcons.action2),
           Icon(Icons.confirmation_num_sharp),
         ],
       )),
@@ -17,8 +17,8 @@ void main() {
 
     await tester.pumpAndSettle();
 
-    expect(find.byIcon(MilkdromedaIcons.actionIcon1), findsOneWidget);
-    expect(find.byIcon(MilkdromedaIcons.actionIcon2), findsOneWidget);
-    expect(MilkdromedaIcons.actionIcon1, isNotNull);
+    expect(find.byIcon(MilkdromedaIcons.action1), findsOneWidget);
+    expect(find.byIcon(MilkdromedaIcons.action2), findsOneWidget);
+    expect(MilkdromedaIcons.action1, isNotNull);
   });
 }
