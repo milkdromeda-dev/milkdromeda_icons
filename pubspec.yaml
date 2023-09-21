@@ -24,7 +24,7 @@ flutter:
   fonts:
     - family: MilkdromedaIconsSet1
       fonts:
-        - asset: fonts/MilkdromedaIconsSet1.ttf
+        - asset: lib/fonts/MilkdromedaIconsSet1.ttf
     - family: MilkdromedaIconsSet2
       fonts:
-        - asset: fonts/MilkdromedaIconsSet2.ttf
+        - asset: lib/fonts/MilkdromedaIconsSet2.ttf

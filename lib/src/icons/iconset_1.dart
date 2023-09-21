@@ -20,7 +20,7 @@ class MilkdromedaIcons {
 
   static const _kFontFam1 = 'MilkdromedaIconsSet1';
   static const _kFontFam2 = 'MilkdromedaIconsSet2';
-  static const String? _kFontPkg = null;
+  static const String _kFontPkg = "milkdromeda_icons";
 
   static const IconData action1 =
       IconData(0xe800, fontFamily: _kFontFam1, fontPackage: _kFontPkg);
@@ -224,203 +224,203 @@ class MilkdromedaIcons {
       IconData(0xe867, fontFamily: _kFontFam1, fontPackage: _kFontPkg);
 
   static const IconData action2 =
-  IconData(0xe800, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe800, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData addCircle2 =
-  IconData(0xe801, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe801, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData advancedSettings2 =
-  IconData(0xe802, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe802, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData apple2 =
-  IconData(0xe803, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe803, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData add2 =
-  IconData(0xe804, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe804, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData archive2 =
-  IconData(0xe805, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe805, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData bell2 =
-  IconData(0xe806, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe806, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData book2 =
-  IconData(0xe807, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe807, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData buildings2 =
-  IconData(0xe808, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe808, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData businessCard2 =
-  IconData(0xe809, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe809, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData calendar2 =
-  IconData(0xe80a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe80a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData camera2 =
-  IconData(0xe80b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe80b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData carNoParking2 =
-  IconData(0xe80d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe80d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData chatNow2 =
-  IconData(0xe80e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe80e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData cash2 =
-  IconData(0xe80f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe80f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData checkboxChecked2 =
-  IconData(0xe810, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe810, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData checkboxUnchecked2 =
-  IconData(0xe811, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe811, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData chevronBottom2 =
-  IconData(0xe812, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe812, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData chevronLeft2 =
-  IconData(0xe813, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe813, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData chevronRight2 =
-  IconData(0xe814, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe814, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData chevronTop2 =
-  IconData(0xe815, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe815, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData clock2 =
-  IconData(0xe816, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe816, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData cloud2 =
-  IconData(0xe817, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe817, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData collect2 =
-  IconData(0xe818, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe818, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData colorPalette2 =
-  IconData(0xe819, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe819, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData creditCard2 =
-  IconData(0xe81a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData delete2 =
-  IconData(0xe81b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData dolphin2 =
-  IconData(0xe81c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData done2 =
-  IconData(0xe81d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData download2 =
-  IconData(0xe81e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData draggableIndicator2 =
-  IconData(0xe81f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe81f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData email2 =
-  IconData(0xe820, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe820, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData fastBackward2 =
-  IconData(0xe821, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe821, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData fastForward2 =
-  IconData(0xe822, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe822, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData feedback2 =
-  IconData(0xe823, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe823, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData filter2 =
-  IconData(0xe824, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe824, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData gallery2 =
-  IconData(0xe825, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe825, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData google2 =
-  IconData(0xe826, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe826, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData gridView2 =
-  IconData(0xe827, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe827, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData health2 =
-  IconData(0xe828, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe828, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData home2 =
-  IconData(0xe829, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe829, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData hospital2 =
-  IconData(0xe82a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe82a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData infoCircleOutlined2 =
-  IconData(0xe82c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe82c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData linkedin2 =
-  IconData(0xe82d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe82d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData link2 =
-  IconData(0xe82e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe82e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData listView2 =
-  IconData(0xe82f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe82f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData lounge2 =
-  IconData(0xe830, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe830, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData mapPin2 =
-  IconData(0xe832, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe832, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData medicalRecord2 =
-  IconData(0xe833, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe833, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData menuHamburger2 =
-  IconData(0xe834, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe834, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData moon2 =
-  IconData(0xe835, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe835, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData milkdromeda2 =
-  IconData(0xe836, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe836, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData next2 =
-  IconData(0xe837, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe837, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData ok2 =
-  IconData(0xe838, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe838, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData pause2 =
-  IconData(0xe839, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe839, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData password2 =
-  IconData(0xe83a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData paymentMethod2 =
-  IconData(0xe83b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData pdf2 =
-  IconData(0xe83c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData pen2 =
-  IconData(0xe83d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData phone2 =
-  IconData(0xe83e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData photo2 =
-  IconData(0xe83f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe83f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData play2 =
-  IconData(0xe840, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe840, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData privacy2 =
-  IconData(0xe841, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe841, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData radioButtonUnchecked2 =
-  IconData(0xe842, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe842, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData ratingStarUnhighlighted2 =
-  IconData(0xe843, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe843, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData radioButtonChecked2 =
-  IconData(0xe844, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe844, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData ratingStarHighlighted2 =
-  IconData(0xe845, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe845, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData send2 =
-  IconData(0xe846, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe846, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData settings2 =
-  IconData(0xe847, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe847, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData shoppingCart2 =
-  IconData(0xe848, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe848, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData sign2 =
-  IconData(0xe849, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe849, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData signIn2 =
-  IconData(0xe84a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData previous2 =
-  IconData(0xe84b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84b, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData signOut2 =
-  IconData(0xe84c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData snail2 =
-  IconData(0xe84d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData redo2 =
-  IconData(0xe84e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData submit2 =
-  IconData(0xe84f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe84f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData sort2 =
-  IconData(0xe850, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe850, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData stop2 =
-  IconData(0xe851, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe851, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData subtractCircleOutlined2 =
-  IconData(0xe852, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe852, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData subtract2 =
-  IconData(0xe853, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe853, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData sun2 =
-  IconData(0xe854, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe854, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData textMessage2 =
-  IconData(0xe855, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe855, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData themes2 =
-  IconData(0xe856, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe856, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData termsAndCondition2 =
-  IconData(0xe857, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe857, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData undo2 =
-  IconData(0xe858, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe858, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData upload2 =
-  IconData(0xe859, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe859, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData user2 =
-  IconData(0xe85a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe85a, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData users2 =
-  IconData(0xe85c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe85c, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData wifi2 =
-  IconData(0xe85d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe85d, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData video2 =
-  IconData(0xe85e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe85e, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData xMarkCircleOutlined2 =
-  IconData(0xe85f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe85f, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData xMark2 =
-  IconData(0xe860, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe860, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData zoomIn2 =
-  IconData(0xe861, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe861, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData zoomOut2 =
-  IconData(0xe862, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe862, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData timer2 =
-  IconData(0xe863, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe863, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData carPark2 =
-  IconData(0xe864, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe864, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData info2 =
-  IconData(0xe865, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe865, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData userGroup2 =
-  IconData(0xe866, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe866, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
   static const IconData luggage2 =
-  IconData(0xe867, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
+      IconData(0xe867, fontFamily: _kFontFam2, fontPackage: _kFontPkg);
 }
