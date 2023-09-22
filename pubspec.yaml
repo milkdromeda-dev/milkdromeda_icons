@@ -1,7 +1,9 @@
 name: milkdromeda_icons
-description: Milkdromeda Open source icons
-version: 0.0.1
-homepage: milkdromeda.dev
+description: Milkdromeda Open-Source icons
+version: 0.0.1+1
+homepage: https://milkdromeda.dev
+repository: https://github.com/milkdromeda-dev/milkdromeda_icons.git
+issue_tracker: https://github.com/milkdromeda-dev/milkdromeda_icons/issues
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
