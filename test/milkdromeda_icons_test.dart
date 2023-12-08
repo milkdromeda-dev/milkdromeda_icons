@@ -11,6 +11,9 @@ void main() {
           Icon(MilkdromedaIcons.action1),
           Icon(MilkdromedaIcons.action2),
           Icon(Icons.confirmation_num_sharp),
+          Icon(MilkdromedaIcons.battery),
+          Icon(MilkdromedaIcons.gameDice),
+          Icon(MilkdromedaIcons.compass),
         ],
       )),
     );
