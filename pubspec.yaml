@@ -1,6 +1,6 @@
 name: milkdromeda_icons
 description: Open-source icons for general use made by Milkdromeda. Provides 100 icons in 2 sets.
-version: 0.0.2+5
+version: 0.0.2+6
 homepage: https://milkdromeda.dev
 repository: https://github.com/milkdromeda-dev/milkdromeda_icons.git
 issue_tracker: https://github.com/milkdromeda-dev/milkdromeda_icons/issues
@@ -42,3 +42,9 @@ flutter:
     - family: MilkdromedaIconsSet4
       fonts:
         - asset: lib/fonts/MilkdromedaIconsSet4.ttf
+    - family: MilkdromedaIconsSet5
+      fonts:
+        - asset: lib/fonts/MilkdromedaIconsSet5.ttf
+    - family: MilkdromedaIconsSet6
+      fonts:
+        - asset: lib/fonts/MilkdromedaIconsSet6.ttf
