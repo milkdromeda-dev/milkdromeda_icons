@@ -1,3 +1,3 @@
-library milkdromeda_icons;
+library;
 
 export 'src/icons/iconset_1.dart';
